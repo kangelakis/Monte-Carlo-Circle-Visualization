@@ -50,18 +50,12 @@ namespace Points_In_Circle
                 float results = (c / Points.Count * 4);
                 resultsTextbox.Text = results.ToString();
             }
-            
-            
-
-
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
 
         }
-
-
 
         private void button1_Click(object sender, EventArgs e)
         {
@@ -84,12 +78,7 @@ namespace Points_In_Circle
                 }
                 panel1.Invalidate(); //Update the panel with the new points
             }
-            catch(Exception){}
-            
-
-            
-        }
-
-       
+            catch(Exception){}    
+        }    
     }
 }
