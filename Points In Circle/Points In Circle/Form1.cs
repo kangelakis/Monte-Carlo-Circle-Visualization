@@ -37,7 +37,7 @@ namespace Points_In_Circle
                 }
                 else
                 {
-                    e.Graphics.FillRectangle((Brush)Brushes.Red, p.X, p.Y, 1, 2.5f);
+                    e.Graphics.FillRectangle((Brush)Brushes.Red, p.X, p.Y, 1, 1);
                 }
                 
             }
