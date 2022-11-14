@@ -1,0 +1,11 @@
+H:\University\3rd Semester\C#\Προαιρετικές\Points In Circle\Points In Circle\Points In Circle\bin\Debug\Points In Circle.exe.config
+H:\University\3rd Semester\C#\Προαιρετικές\Points In Circle\Points In Circle\Points In Circle\bin\Debug\Points In Circle.exe
+H:\University\3rd Semester\C#\Προαιρετικές\Points In Circle\Points In Circle\Points In Circle\bin\Debug\Points In Circle.pdb
+H:\University\3rd Semester\C#\Προαιρετικές\Points In Circle\Points In Circle\Points In Circle\obj\Debug\Points In Circle.csproj.AssemblyReference.cache
+H:\University\3rd Semester\C#\Προαιρετικές\Points In Circle\Points In Circle\Points In Circle\obj\Debug\Points In Circle.csproj.SuggestedBindingRedirects.cache
+H:\University\3rd Semester\C#\Προαιρετικές\Points In Circle\Points In Circle\Points In Circle\obj\Debug\Points_In_Circle.Form1.resources
+H:\University\3rd Semester\C#\Προαιρετικές\Points In Circle\Points In Circle\Points In Circle\obj\Debug\Points_In_Circle.Properties.Resources.resources
+H:\University\3rd Semester\C#\Προαιρετικές\Points In Circle\Points In Circle\Points In Circle\obj\Debug\Points In Circle.csproj.GenerateResource.cache
+H:\University\3rd Semester\C#\Προαιρετικές\Points In Circle\Points In Circle\Points In Circle\obj\Debug\Points In Circle.csproj.CoreCompileInputs.cache
+H:\University\3rd Semester\C#\Προαιρετικές\Points In Circle\Points In Circle\Points In Circle\obj\Debug\Points In Circle.exe
+H:\University\3rd Semester\C#\Προαιρετικές\Points In Circle\Points In Circle\Points In Circle\obj\Debug\Points In Circle.pdb
